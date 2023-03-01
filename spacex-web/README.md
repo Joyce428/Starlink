@@ -76,5 +76,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 | Longtitude | degree | -180 - 180 | 50 |
 | Latitude | degree | -90 - 90 | 60 |
 | Elevation | meter | -413 - 8850 | 2000 |
-| Altitude | degree | 0 - 90 | 80 |
-| Duration | second | 0 - 90 | 20 |
+| Search Radius | degree | 0 - 90 | 80 |
+| Duration | minute | 0 - 90 | 20 |
