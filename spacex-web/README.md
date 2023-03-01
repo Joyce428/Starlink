@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+| Parameter | Unit | Range | Example |
+| :----: | :----: | :----: | :----: |
+| Longtitude | degree | -180 - 180 | 50 |
+| Latitude | degree | -90 - 90 | 60 |
+| Elevation | meter | -413 - 8850 | 2000 |
+| Altitude | degree | 0 - 90 | 80 |
+| Duration | second | 0 - 90 | 20 |
